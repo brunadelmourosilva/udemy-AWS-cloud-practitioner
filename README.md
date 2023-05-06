@@ -2,6 +2,8 @@
 
 ## Section 3 - What is the cloud computing?
 
+- **slides 10 - 38**
+
 ### The different types of cloud computing 
 
 ![image](https://user-images.githubusercontent.com/61791877/236089550-e9bbf25e-8d93-4862-a383-38646578c2a3.png)
