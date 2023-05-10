@@ -4,6 +4,10 @@
 
 - **slides 10 - 38**
 
+## Section 4 - IAM (Identity And Access Management)
+
+- **slides 39 - **
+
 **TO REMEMBER**
 
 **IAM POLICIES**
