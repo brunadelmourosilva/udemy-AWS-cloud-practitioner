@@ -40,9 +40,10 @@
 
 **Shared Responsibility Model for IAM**
 
-****
-
 ---
 
+## Section 5 - EC2 (Elastic Cloud Computing)
 
+- **slides 57 - (summary)**
 
+**TO REMEMBER**
