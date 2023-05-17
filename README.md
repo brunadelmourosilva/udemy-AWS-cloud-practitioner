@@ -6,7 +6,7 @@
 
 ## Section 4 - IAM (Identity And Access Management)
 
-- **slides 39 - **
+- **slides 39 - 56(summary)**
 
 **TO REMEMBER**
 
@@ -27,6 +27,18 @@
 - To see the access key infos
 
 ```aws iam list-users```
+
+**IAM ROLES**
+
+• Some AWS service will need to perform actions on your behalf
+• To do so, we will assign permissions to AWS services with IAM Roles
+• Common roles: • EC2 Instance Roles • Lambda Function Roles • Roles for CloudFormation
+
+**IAM SECURITY TOOLS**
+
+**Shared Responsibility Model for IAM**
+
+****
 
 ---
 
