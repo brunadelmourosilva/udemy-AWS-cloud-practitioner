@@ -47,3 +47,10 @@
 - **slides 57 - (summary)**
 
 **TO REMEMBER**
+
+**AWS BUDGET SETUP**
+
+- To see the charges by service: aws billing -> bills -> chargers by service
+- To see the free tier usage: aws billing -> free tier
+- Create alerts for cost usage on services: aws billing -> create budget
+
