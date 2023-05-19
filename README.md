@@ -54,3 +54,40 @@
 - To see the free tier usage: aws billing -> free tier
 - Create alerts for cost usage on services: aws billing -> create budget
 
+**EC2 - INSTANCES TYPES**
+
+- https://aws.amazon.com/ec2/instance-types/
+![image](https://github.com/brunadelmourosilva/udemy-AWS-cloud-practitioner/assets/61791877/a5647ed3-54f2-42fd-b34e-afae960cdbe7)
+
+**Security Groups**
+
+- "Good to know" - slide
+- Classic ports to know - slide
+
+- On AWS EC2 INSTANCE
+  - INBOUND RULES
+  - OUTBOUND RULES
+
+- SSH OVERVIEW
+
+- CONNECT IN EC2 INSTANCE USING LINUX: 
+
+```
+ssh -i downloaded-private-key.pem ec2-user@public-ip
+```
+
+- CONNECT IN EC2 USING WINDOWS:
+
+```
+USE THE PUTTY PROGRAM
+CONVERT THE .PEM TO .PPK
+```
+
+```
+USE POWERSHELL
+
+```
+
+
+
+
