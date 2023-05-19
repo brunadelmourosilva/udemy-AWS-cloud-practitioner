@@ -86,6 +86,8 @@ CONVERT THE .PEM TO .PPK
 ```
 USE POWERSHELL
 
+ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
+
 ```
 
 
