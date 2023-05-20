@@ -68,7 +68,7 @@
   - INBOUND RULES
   - OUTBOUND RULES
 
-- SSH OVERVIEW
+**SSH OVERVIEW**
 
 - CONNECT IN EC2 INSTANCE USING LINUX: 
 
@@ -89,7 +89,5 @@ USE POWERSHELL
 ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 ```
-
-
 
 
