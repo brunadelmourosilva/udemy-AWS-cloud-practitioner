@@ -90,4 +90,7 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 ```
 
+**EC2 PURCHASING OPTIONS**
+
+**Shared Responsibility Model for EC2**
 
