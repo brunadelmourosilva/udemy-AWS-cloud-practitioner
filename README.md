@@ -44,7 +44,7 @@
 
 ## Section 5 - EC2 (Elastic Cloud Computing)
 
-- **slides 57 - (summary)**
+- **slides 57 - 91(summary)**
 
 **TO REMEMBER**
 
@@ -93,4 +93,10 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 **EC2 PURCHASING OPTIONS**
 
 **Shared Responsibility Model for EC2**
+
+---
+
+## Section 6 - EC2 Instance Storage
+
+- **slides 92 - (summary)**
 
