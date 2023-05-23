@@ -100,3 +100,8 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 - **slides 92 - (summary)**
 
+**TO REMEMBER**
+
+- EBS VOLUME
+  - ATTACHED AND DESTACHED VOLUMES ON INSTANCES 
+
