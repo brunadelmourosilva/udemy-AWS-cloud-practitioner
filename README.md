@@ -105,3 +105,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 - EBS VOLUME
   - ATTACHED AND DESTACHED VOLUMES ON INSTANCES 
 
+- EBS SNAPSHOTS
+  - can create a snapshot and create a volume from the snapshot created, for differents AZ. 
+
+- AMI
+  - create a custom image in a EC2 instance and use it in another EC2 instance.
+
