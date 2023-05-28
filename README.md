@@ -98,7 +98,7 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 ## Section 6 - EC2 Instance Storage
 
-- **slides 92 - (summary)**
+- **slides 92 - 111(summary)**
 
 **TO REMEMBER**
 
@@ -114,4 +114,8 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 - EC2 Instance Store
   - high-performance hardware disk
   - lose their storage if they are stopped (EPHEMERAL) 
+
+- EFS
+
+- FXs
 
