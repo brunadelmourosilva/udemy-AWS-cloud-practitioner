@@ -111,3 +111,7 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 - AMI
   - create a custom image in a EC2 instance and use it in another EC2 instance.
 
+- EC2 Instance Store
+  - high-performance hardware disk
+  - lose their storage if they are stopped (EPHEMERAL) 
+
