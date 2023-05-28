@@ -119,3 +119,8 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 - FXs
 
+--- 
+
+## Section 7 - Elastic Load Balancing & Auto Scaling Groups Section
+
+- **slides 113 - 128(summary)**
