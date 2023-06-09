@@ -130,3 +130,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 8 - Amazon S3 - Simple Storage Service
 
 - **slides 129 - 169(summary)**
+
+---
+
+## Section 9 - Databases & Analytics
+
+- **slides 170 - 198(summary)**
