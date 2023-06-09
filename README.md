@@ -136,3 +136,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 9 - Databases & Analytics
 
 - **slides 170 - 198(summary)**
+
+---
+
+## Other Compute
+
+- **slides 199 - 221(summary)**
