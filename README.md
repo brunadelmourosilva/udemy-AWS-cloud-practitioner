@@ -139,6 +139,12 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 ---
 
-## Other Compute
+## Section 10 - Other Compute
 
 - **slides 199 - 221(summary)**
+
+---
+
+## Section 11 - Deployment
+
+- **slides 222 - 247(summary)**
