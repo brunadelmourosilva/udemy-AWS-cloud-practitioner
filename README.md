@@ -160,3 +160,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 13 - Global Infrasctructure
 
 - **slides 275 - 286(summary)**
+
+---
+
+## Section 14 - Cloud Monitoring
+
+- **slides 287 - 308(summary)**
