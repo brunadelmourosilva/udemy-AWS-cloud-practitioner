@@ -148,3 +148,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 11 - Deployment
 
 - **slides 222 - 247(summary)**
+
+---
+
+## Section 12 - Global Infrasctructure
+
+- **slides 249 - 273(summary)**
