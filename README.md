@@ -166,3 +166,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 14 - Cloud Monitoring
 
 - **slides 287 - 308(summary)**
+
+---
+
+## Section 15 - VPC
+
+- **slides 309 - 326(summary)**
