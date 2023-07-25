@@ -171,4 +171,10 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 
 ## Section 15 - VPC
 
-- **slides 309 - 326(summary)**
+- **slides 309 - 327(summary)**
+
+---
+
+## Section 16 - Security and Compliance
+
+- **slides 328 - 362(summary)**
