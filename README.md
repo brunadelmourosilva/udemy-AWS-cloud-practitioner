@@ -178,3 +178,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 16 - Security and Compliance
 
 - **slides 328 - 362(summary)**
+
+---
+
+## Section 17 - Machine Learning
+
+- **slides 363 - 375(summary)**
