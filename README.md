@@ -184,3 +184,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 17 - Machine Learning
 
 - **slides 363 - 375(summary)**
+
+---
+
+## Section 18 - Account Management, billing and support
+
+- **slides 376 - 427(summary)**
