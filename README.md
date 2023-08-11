@@ -196,3 +196,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 19 - Advanced Identity
 
 - **slides 428 - 435(summary)**
+
+---
+
+## Section 20 - Other Services
+
+- **slides 436 - 460(summary)**
