@@ -202,3 +202,9 @@ ssh -i udemy-key-pair.pem ec2-user@34.238.114.128
 ## Section 20 - Other Services
 
 - **slides 436 - 460(summary)**
+
+---
+
+## Section 21 - Architecting and Ecosystem
+
+- **slides 461 - 488(summary)**
