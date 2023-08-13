@@ -3,6 +3,7 @@
 ## Section 3 - What is the cloud computing?
 
 - **slides 10 - 38**
+- IMPORTANT: SIX ADVANTAGES OF CC - 22
 
 ## Section 4 - IAM (Identity And Access Management)
 
