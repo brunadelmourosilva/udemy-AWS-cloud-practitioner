@@ -1,5 +1,12 @@
 # [udemy-AWS-cloud-practitioner]([url](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/))
 
+## Course: 
+- https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+
+## Practice tests: 
+- https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/
+- https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-tests-clf-c02/
+
 ## Section 3 - What is the cloud computing?
 
 - **slides 10 - 38**
